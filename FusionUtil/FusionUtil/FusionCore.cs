@@ -1,4 +1,5 @@
-﻿namespace FusionUtil
+﻿using System;
+namespace FusionUtil
 {
     public class FusionCore
     {
