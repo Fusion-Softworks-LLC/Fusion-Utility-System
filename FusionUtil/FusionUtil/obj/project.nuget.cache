@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "SPxAPqRjFwIz0LIRJ+AshrLvXKq/VnZ1DuHy3XivbkHaDEkwfXd7qAMkz+ocY9N5AaQku+RraTDDAQkFzpzjSA==",
+  "dgSpecHash": "og23YqOJew4Ez+SLhUBalxujaiUWmBKVTKAgEbjXcwACmlBq99Fvyysr68hCwVz6fuUZyxqkk7REFHwh5pWMBg==",
   "success": true,
-  "projectFilePath": "E:\\KSWS\\Fusion-Utility-System\\FusionUtil\\FusionUtil\\FusionUtil.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/workspaces/Fusion-Utility-System/FusionUtil/FusionUtil/FusionUtil.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/6.0.20/microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.20/microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
