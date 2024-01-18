@@ -1,0 +1,12 @@
+/workspaces/Fusion-Utility-System/FusionUtil/FusionUtil/bin/Debug/net6.0/FusionUtil.deps.json
+/workspaces/Fusion-Utility-System/FusionUtil/FusionUtil/bin/Debug/net6.0/FusionUtil.dll
+/workspaces/Fusion-Utility-System/FusionUtil/FusionUtil/bin/Debug/net6.0/FusionUtil.pdb
+/workspaces/Fusion-Utility-System/FusionUtil/FusionUtil/obj/Debug/net6.0/FusionUtil.csproj.AssemblyReference.cache
+/workspaces/Fusion-Utility-System/FusionUtil/FusionUtil/obj/Debug/net6.0/FusionUtil.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Fusion-Utility-System/FusionUtil/FusionUtil/obj/Debug/net6.0/FusionUtil.AssemblyInfoInputs.cache
+/workspaces/Fusion-Utility-System/FusionUtil/FusionUtil/obj/Debug/net6.0/FusionUtil.AssemblyInfo.cs
+/workspaces/Fusion-Utility-System/FusionUtil/FusionUtil/obj/Debug/net6.0/FusionUtil.csproj.CoreCompileInputs.cache
+/workspaces/Fusion-Utility-System/FusionUtil/FusionUtil/obj/Debug/net6.0/FusionUtil.dll
+/workspaces/Fusion-Utility-System/FusionUtil/FusionUtil/obj/Debug/net6.0/refint/FusionUtil.dll
+/workspaces/Fusion-Utility-System/FusionUtil/FusionUtil/obj/Debug/net6.0/FusionUtil.pdb
+/workspaces/Fusion-Utility-System/FusionUtil/FusionUtil/obj/Debug/net6.0/ref/FusionUtil.dll
